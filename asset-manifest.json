@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Proba-app/static/css/main.3141f6fe.css",
+    "main.js": "/Proba-app/static/js/main.eca99d40.js",
+    "static/media/cover.jpg": "/Proba-app/static/media/cover.ed1962f55eeee1f53967.jpg",
+    "static/media/02.jpg": "/Proba-app/static/media/02.44af2568f9e81980f86b.jpg",
+    "static/media/01.jpg": "/Proba-app/static/media/01.b74b3c4eaec9703e9d40.jpg",
+    "static/media/03.jpg": "/Proba-app/static/media/03.ba8d2e1d099acaeda717.jpg",
+    "static/media/04.jpg": "/Proba-app/static/media/04.9d1c4dca9ebafc18a217.jpg",
+    "static/media/01.svg": "/Proba-app/static/media/01.3d75534d9dbb8dae4fdf4f6a66370644.svg",
+    "static/media/02.svg": "/Proba-app/static/media/02.048c81c4e0a2e4d906777288ee3829e0.svg",
+    "static/media/03.svg": "/Proba-app/static/media/03.5bfa3a3ff48c72936af4be693d23575f.svg",
+    "static/media/04.svg": "/Proba-app/static/media/04.7444d4163bffe8c4cbf7639abdad26f8.svg",
+    "index.html": "/Proba-app/index.html",
+    "main.3141f6fe.css.map": "/Proba-app/static/css/main.3141f6fe.css.map",
+    "main.eca99d40.js.map": "/Proba-app/static/js/main.eca99d40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3141f6fe.css",
+    "static/js/main.eca99d40.js"
+  ]
+}
